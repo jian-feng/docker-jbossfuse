@@ -80,7 +80,7 @@ Then run install command inside Fuse console.
 ####1. Find CONTAINER ID
 You can also stop this container from docker.
 ```sh
-  sudo docker ps
+sudo docker ps
 ```
   Result is: 
 ```
